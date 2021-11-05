@@ -6,7 +6,7 @@
       "datatype": "string"
     },
     {
-      "name": "sourceTaxonName",
+      "name": "targetTaxonName",
       "titles": "pollinator_scientific",
       "datatype": "string"
     },
@@ -16,7 +16,7 @@
       "datatype": "string"
     },
     {
-      "name": "targetTaxonName",
+      "name": "sourceTaxonName",
       "titles": "plant_scientific",
       "datatype": "string"
     },
